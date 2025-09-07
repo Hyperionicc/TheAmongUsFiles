@@ -14,6 +14,7 @@ The goal is to have everything stored in one place for easy reference.
 ## 📂 Contents
 
 * `TheAmongUsFiles.txt` → the main log file with all recorded data.
+* An exclusive folder for a player who managed to cross all uncrossed lines and break all unspoken barriers of manners.
 
 ---
 
