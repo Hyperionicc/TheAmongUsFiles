@@ -1,3 +1,29 @@
+/*
+Welcome to The Among Us Files!
+First off, you may be wondering... "Why is it called that?"
+I'll answer your question with one word: Epstein
+
+Secondly, this repository is dedicated to documenting and logging the biggest weirdos in
+Among Us (or as I like to call them, "creatures") and anyone can contribute to it. The formatting is as follows:
+
+Username
+Friend Code
+PUID (easily obtained with SickoMenu)
+..Then followed by a line break, another line break (leaving an empty line behind).
+
+If you're using this for any kind of automation, please ignore this comment and the comments in parentheses next to the names,
+unless you want to automate that as well.
+
+You must only add these if you are 100% sure the person you are dealing with is a dater,
+by either talking to them (try to not get banned) and confirming they are only interested in dating
+or either by confirming their username is suggestive (e.g: contains "snap", "hxrny", "rp", "sex"...).
+Of course, you're not necessarily limited to utilizing that specific list, but those are just to name a few.
+
+
+And obviously, feel free to laugh, because we definitely laughed a lot while making this list (which is constantly updated!)
+
+*/
+
 pichipuk (WEIRDO AS FUCK)
 warmapex#2446
 00024a16cdd4499f95d9f47508d4096c
