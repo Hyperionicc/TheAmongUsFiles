@@ -11,9 +11,7 @@ Friend Code
 PUID (easily obtained with SickoMenu)
 ..Then followed by a line break, another line break (leaving an empty line behind).
 
-If you're using this for any kind of automation, please ignore this comment and the comments in parentheses next to the names,
-unless you want to automate that as well.
-
+If you're using this for any kind of automation, please resort to the "TheAmongUsFiles (raw).txt)"...
 You must only add these if you are 100% sure the person you are dealing with is a dater,
 by either talking to them (try to not get banned) and confirming they are only interested in dating
 or either by confirming their username is suggestive (e.g: contains "snap", "hxrny", "rp", "sex"...).
