@@ -1,6 +1,8 @@
 # TheAmongUsFiles
 
-This repository is a **plain text log** of collected Among Us data.
+This repository is a **plain text log** of collected Among Us data regarding daters on the platform.
+For more info, check out the comment on the start of [the log](https://raw.githubusercontent.com/Hyperionicc/TheAmongUsFiles/refs/heads/main/TheAmongUsFiles.txt)
+
 It contains:
 
 * Player names
