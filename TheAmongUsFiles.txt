@@ -11,7 +11,9 @@ Friend Code
 PUID (easily obtained with SickoMenu)
 ..Then followed by a line break, another line break (leaving an empty line behind).
 
-If you're using this for any kind of automation, please resort to the "TheAmongUsFiles (raw).txt)"...
+If you're using this for any kind of automation, please resort to the "TheAmongUsFiles (raw).txt)",
+or ignore comments within this file. 
+
 You must only add these if you are 100% sure the person you are dealing with is a dater,
 by either talking to them (try to not get banned) and confirming they are only interested in dating
 or either by confirming their username is suggestive (e.g: contains "snap", "hxrny", "rp", "sex"...).
@@ -577,3 +579,19 @@ blogtall#0219
 nud3
 nuclearcow#7183
 0002159ef7354a9d9203a519534f127e
+
+Oldie
+ragdynamic#1984
+0002a4061e59403487e3a06ff890d66e
+
+needsl3t
+gaolsnap#2099
+0002d0c184a240949732dc240990e339
+
+HARD RN (ig: nomadhere99)
+motorclock#3597
+00025d113de547de898b612d370bfc0d
+
+BiSnapBoy (snap: raines252304)
+disckingly#0996
+00023f06992b44ee9db7c6db74e84427
