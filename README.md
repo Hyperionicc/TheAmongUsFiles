@@ -1,3 +1,11 @@
+<p align="center">
+   <img src="justice.png">
+  </p>
+
+# 4 YEARS. 4 ENTIRE YEARS AND STILL THE PREDATOR PROBLEMS. DEVELOPERS. PLEASE WORK ON YOUR GAMES. REPEATED REPORTS HAVE BEEN IGNORED. THIS IS A SIGN OF ACCOUNTABILITY
+# https://discord.gg/nNwPDRXynU
+not affilatied with matchducking: https://discord.gg/siresirol
+
 # TheAmongUsFiles
 
 This repository is a **plain text log** of collected Among Us data regarding daters on the platform.
