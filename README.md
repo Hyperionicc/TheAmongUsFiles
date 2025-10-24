@@ -2,7 +2,7 @@
    <img src="justice.png">
   </p>
 
-# 4 YEARS. 4 ENTIRE YEARS AND STILL THE PREDATOR PROBLEMS. DEVELOPERS. PLEASE WORK ON YOUR GAMES. REPEATED REPORTS HAVE BEEN IGNORED. THIS IS A CALL FOR ACCOUNTABILITY
+## 4 YEARS. 4 ENTIRE YEARS AND STILL THE PREDATOR PROBLEMS. DEVELOPERS. PLEASE WORK ON YOUR GAMES. REPEATED REPORTS HAVE BEEN IGNORED. THIS IS A CALL FOR ACCOUNTABILITY
 # https://discord.gg/nNwPDRXynU
 not affilatied with matchducking: https://discord.gg/siresirol
 
@@ -11,7 +11,7 @@ not affilatied with matchducking: https://discord.gg/siresirol
 This repository is a **plain text log** of collected Among Us data regarding daters on the platform.
 For more info, check out the comment on the start of [the log](https://raw.githubusercontent.com/Hyperionicc/TheAmongUsFiles/refs/heads/main/TheAmongUsFiles.txt)
 
-It contains:
+It contains (respectively):
 
 * Player names
 * Friend codes
@@ -23,7 +23,7 @@ The goal is to have everything stored in one place for easy reference.
 
 ## 📂 Contents
 
-* `TheAmongUsFiles.txt` → the main log file with all recorded data.
+* `TheAmongUsFiles.txt` → the main log file with all recorded data obtained from confirmed dater lobbies.
 * An exclusive folder for a player who managed to cross all uncrossed lines and break all unspoken barriers of manners.
 
 ---
@@ -31,7 +31,7 @@ The goal is to have everything stored in one place for easy reference.
 ## 🚀 Usage
 
 1. Open `TheAmongUsFiles.txt` in any text editor.
-2. Search for the name, friend code, or PUID you need.
+2. Search for the name, friend code, or PUID you need (or just take a look at them!)
 
 ---
 
@@ -45,4 +45,4 @@ The goal is to have everything stored in one place for easy reference.
 
 ## ⚠️ Note
 
-This repository is just for **logging and reference**. Please use the data responsibly.
+This repository is just for **logging and reference**. Please use the data responsibly and don't harrass anyone on this list, this data is meant to point out bad actors for Innersloth and for basic data analysis.
