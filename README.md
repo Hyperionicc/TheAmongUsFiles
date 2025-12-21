@@ -1,5 +1,5 @@
 ## AmongUsFiles has been archived!
-Don't worry though! Our mission continues on [Bonked_TNT's digital Among us files db](https://aufiles.up.railway.app/aufiles) which makes it even easier for us to add records using tuffmenu.
+Don't worry though! Our mission continues on [Bonked_TNT's digital Among us files db](https://tntaddict.net/aufiles) which makes it even easier for us to add records using tuffmenu.
 
 # TheAmongUsFiles
 
