@@ -1,5 +1,5 @@
-## AmongUsFiles has been archived!
-Don't worry though! Our mission continues on [Bonked_TNT's digital Among us files db](https://tntaddict.net/aufiles) which makes it even easier for us to add records using tuffmenu.
+## TheAmongUsFiles/DaterBase has been archived!
+Don't worry though! Our mission continues on [Bonked_TNT's Digital The Among Us Files Database (aka DaterBase.) ](https://au.tntaddict.net/aufiles) which makes it even easier for us to add records using tuffmenu.
 
 # TheAmongUsFiles
 
