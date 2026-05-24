@@ -1,5 +1,7 @@
 ## TheAmongUsFiles/DaterBase has been archived!
-Don't worry though! Our mission continues on [Bonked_TNT's Digital The Among Us Files Database (aka DaterBase.) ](https://au.tntaddict.net/aufiles) which makes it even easier for us to add records using tuffmenu.
+Don't worry though! Our mission continues on [Bonked_TNT's Digital The Among Us Files Database (aka DaterBase.) ](https://au.tntaddict.net/aufiles) which makes it even easier for us to add records using TuffMenu (a private menu) and also adding Daters via our [Discord Server](https://discord.gg/antidater) and using the BepInEx mod in #antidater-mod.
+
+If you need more information about the Dater issue, visit https://github.com/TNTaddicted/aufiles and check #info and #among-us-datingissue in my [Discord Server](https://discord.gg/antidater).
 
 # TheAmongUsFiles
 
